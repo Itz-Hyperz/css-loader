@@ -1,5 +1,5 @@
 # css-loader
-This is a "loader" I made in CSS
+This is a "loader" made in CSS
 
 ---
 

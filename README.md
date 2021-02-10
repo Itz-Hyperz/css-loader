@@ -12,3 +12,5 @@ In order for this to work, you will need to add this code to your html:
   </div>
 </a>
 ```
+
+I'm trying to become more advanced in CSS, this is one of my slightly more advanced creations.
